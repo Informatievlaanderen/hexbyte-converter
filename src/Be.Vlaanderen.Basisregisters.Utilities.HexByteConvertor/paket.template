@@ -1,0 +1,22 @@
+type file
+version 1.0.0
+
+id Be.Vlaanderen.Basisregisters.Utilities.HexByteConvertor
+title Be.Vlaanderen.Basisregisters.Utilities.HexByteConvertor
+
+authors Basisregisters Vlaanderen
+owners agentschap Informatie Vlaanderen <https://vlaanderen.be/informatie-vlaanderen>
+copyright Copyright (c) agentschap Informatie Vlaanderen
+requireLicenseAcceptance false
+projectUrl https://github.com/Informatievlaanderen/hexbyte-converter
+iconUrl https://raw.githubusercontent.com/Informatievlaanderen/build-pipeline/master/logo.png
+licenseUrl https://opensource.org/licenses/MIT
+
+description Easily convert between byte array and hex strings.
+
+dependencies
+  framework: netstandard20
+
+files
+  bin\Release\netstandard2.0\Be.Vlaanderen.Basisregisters.Utilities.HexByteConvertor.dll => lib\netstandard2.0
+  bin\Release\netstandard2.0\Be.Vlaanderen.Basisregisters.Utilities.HexByteConvertor.pdb => lib\netstandard2.0
