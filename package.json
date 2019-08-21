@@ -1,6 +1,6 @@
 {
   "name": "hexbyte-converter",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Easily convert between byte array and hex strings.",
   "author": "Basisregisters Vlaanderen",
   "license": "MIT",
