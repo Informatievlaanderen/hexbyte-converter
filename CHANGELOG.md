@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/informatievlaanderen/hexbyte-converter/compare/v1.1.1...v2.0.0) (2019-11-18)
+
+
+### Code Refactoring
+
+* update to netcoreapp30 ([d2930bc](https://github.com/informatievlaanderen/hexbyte-converter/commit/d2930bc))
+
+
+### BREAKING CHANGES
+
+* Update to .NET Core 3
+
 ## [1.1.1](https://github.com/informatievlaanderen/hexbyte-converter/compare/v1.1.0...v1.1.1) (2019-10-28)
 
 
