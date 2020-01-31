@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/informatievlaanderen/hexbyte-converter/compare/v2.1.0...v2.2.0) (2020-01-31)
+
+
+### Features
+
+* upgrade netcoreapp31 and dependencies ([4e3c617](https://github.com/informatievlaanderen/hexbyte-converter/commit/4e3c61771e78164f9db466da4009c623448a3009))
+
 # [2.1.0](https://github.com/informatievlaanderen/hexbyte-converter/compare/v2.0.0...v2.1.0) (2019-12-15)
 
 
