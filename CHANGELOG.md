@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/informatievlaanderen/hexbyte-converter/compare/v2.2.1...v2.2.2) (2020-05-04)
+
+
+### Bug Fixes
+
+* move to GH-actions ([a7746fb](https://github.com/informatievlaanderen/hexbyte-converter/commit/a7746fb7ada341c7fdd8cdb9da42ba0e644f4e84))
+
 ## [2.2.1](https://github.com/informatievlaanderen/hexbyte-converter/compare/v2.2.0...v2.2.1) (2020-03-02)
 
 
