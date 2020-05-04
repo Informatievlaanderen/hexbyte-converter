@@ -1,4 +1,4 @@
-# Be.Vlaanderen.Basisregisters.Utilities.HexByteConverter
+# Be.Vlaanderen.Basisregisters.Utilities.HexByteConverter [![Build Status](https://github.com/Informatievlaanderen/hexbyte-converter/workflows/CI/badge.svg)](https://github.com/Informatievlaanderen/hexbyte-converter/actions)
 
 Easily convert between byte array and hex strings.
 
