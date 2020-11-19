@@ -1,3 +1,10 @@
+## [2.2.7](https://github.com/informatievlaanderen/hexbyte-converter/compare/v2.2.6...v2.2.7) (2020-11-19)
+
+
+### Bug Fixes
+
+* remove set-env usage in gh-actions ([c772664](https://github.com/informatievlaanderen/hexbyte-converter/commit/c772664a4af27853084ef3bbfcd0d4538b1c31e4))
+
 ## [2.2.6](https://github.com/informatievlaanderen/hexbyte-converter/compare/v2.2.5...v2.2.6) (2020-09-21)
 
 
