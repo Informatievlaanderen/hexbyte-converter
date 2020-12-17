@@ -16,7 +16,7 @@ let nugetVersionNumber = (sprintf "%s")
 
 let buildSource = build assemblyVersionNumber
 let buildTest = buildTest assemblyVersionNumber
-let publish = publish assemblyVersionNumber
+let publishSource = publish assemblyVersionNumber
 let pack = packSolution nugetVersionNumber
 
 supportedRuntimeIdentifiers <- [ "linux-x64" ]
@@ -24,7 +24,7 @@ supportedRuntimeIdentifiers <- [ "linux-x64" ]
 // Library ------------------------------------------------------------------------
 Target.create "Lib_Build" (fun _ -> buildSource "Be.Vlaanderen.Basisregisters.Utilities.HexByteConvertor")
 
-Target.create "Lib_Publish" (fun _ -> publish "Be.Vlaanderen.Basisregisters.Utilities.HexByteConvertor")
+Target.create "Lib_Publish" (fun _ -> publishSource "Be.Vlaanderen.Basisregisters.Utilities.HexByteConvertor")
 Target.create "Lib_Pack" (fun _ -> pack "Be.Vlaanderen.Basisregisters.Utilities.HexByteConvertor")
 
 // --------------------------------------------------------------------------------
