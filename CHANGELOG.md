@@ -1,3 +1,10 @@
+## [2.2.10](https://github.com/informatievlaanderen/hexbyte-converter/compare/v2.2.9...v2.2.10) (2021-02-02)
+
+
+### Bug Fixes
+
+* move to 5.0.2 ([9a0746d](https://github.com/informatievlaanderen/hexbyte-converter/commit/9a0746d090acb62eb97186f43d0e32e229b3a89a))
+
 ## [2.2.9](https://github.com/informatievlaanderen/hexbyte-converter/compare/v2.2.8...v2.2.9) (2020-12-17)
 
 
