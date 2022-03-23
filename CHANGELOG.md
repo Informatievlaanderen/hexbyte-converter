@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/informatievlaanderen/hexbyte-converter/compare/v2.2.11...v3.0.0) (2022-03-23)
+
+
+### Features
+
+* move to dotnet 6.0.3 ([99fde65](https://github.com/informatievlaanderen/hexbyte-converter/commit/99fde65bbeb0aa6a16c731e50e0caef54a2b961d))
+
+
+### BREAKING CHANGES
+
+* move to dotnet 6.0.3
+
 ## [2.2.11](https://github.com/informatievlaanderen/hexbyte-converter/compare/v2.2.10...v2.2.11) (2021-05-28)
 
 
