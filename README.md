@@ -1,4 +1,4 @@
-# Be.Vlaanderen.Basisregisters.Utilities.HexByteConverter [![Build Status](https://github.com/Informatievlaanderen/hexbyte-converter/workflows/CI/badge.svg)](https://github.com/Informatievlaanderen/hexbyte-converter/actions)
+# Be.Vlaanderen.Basisregisters.Utilities.HexByteConverter [![Build Status](https://github.com/Informatievlaanderen/hexbyte-converter/workflows/Build/badge.svg)](https://github.com/Informatievlaanderen/hexbyte-converter/actions)
 
 ## Goal
 
