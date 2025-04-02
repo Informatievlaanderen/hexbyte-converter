@@ -5,7 +5,7 @@ namespace Be.Vlaanderen.Basisregisters.Utilities.HexByteConvertor
     // https://stackoverflow.com/questions/311165/how-do-you-convert-a-byte-array-to-a-hexadecimal-string-and-vice-versa
     public static class ByteArrayExtensions
     {
-        public static string ToHexString(this byte[] bytes)
+        public static string? ToHexString(this byte[]? bytes)
         {
             if (bytes == null)
                 return null;
@@ -23,13 +23,13 @@ namespace Be.Vlaanderen.Basisregisters.Utilities.HexByteConvertor
             return new string(c);
         }
 
-        public static byte[] ToByteArray(this string hex)
+        public static byte[]? ToByteArray(this string? hex)
         {
             if (hex == null)
                 return null;
 
             if (string.IsNullOrEmpty(hex))
-                return new byte[0];
+                return [];
 
             var numberChars = hex.Length;
             var bytes = new byte[numberChars / 2];
