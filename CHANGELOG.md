@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/informatievlaanderen/hexbyte-converter/compare/v4.0.0...v5.0.0) (2025-04-04)
+
+
+### Code Refactoring
+
+* use renovate and nuget + update pipeline ([a020e71](https://github.com/informatievlaanderen/hexbyte-converter/commit/a020e711d36cb0cbafa8feef8b7c62e2cfde8485))
+
+
+### BREAKING CHANGES
+
+* update to dotnet 9
+
 # [4.0.0](https://github.com/informatievlaanderen/hexbyte-converter/compare/v3.0.0...v4.0.0) (2024-03-06)
 
 
