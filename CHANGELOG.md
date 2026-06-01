@@ -1,3 +1,10 @@
+# [5.1.0](https://github.com/informatievlaanderen/hexbyte-converter/compare/v5.0.0...v5.1.0) (2026-06-01)
+
+
+### Features
+
+* update packages ([ef695bb](https://github.com/informatievlaanderen/hexbyte-converter/commit/ef695bb97891cd0abfb9965cc1189d25f0cda0c1))
+
 # [5.0.0](https://github.com/informatievlaanderen/hexbyte-converter/compare/v4.0.0...v5.0.0) (2025-04-04)
 
 
